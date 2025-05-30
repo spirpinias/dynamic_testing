@@ -1,6 +1,6 @@
 process make_files {
 
-  //label "process_baby"
+  label "process_baby"
 
   container "ubuntu"
 
